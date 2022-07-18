@@ -19,7 +19,7 @@ THEN the deposits or expenses added while they were offline are added to their t
 ![forfive](https://user-images.githubusercontent.com/95842420/179327734-37198fa6-aeeb-4bf9-9d58-165c6c784e65.png)
 
 # GitHub 
-https://github.com/olivialammam
+https://github.com/olivialammam/budget-tracker
 
 # Deployed Heroku URL
 https://git.heroku.com/quiet-beach-10957.git
